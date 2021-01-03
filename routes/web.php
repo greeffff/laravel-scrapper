@@ -14,3 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'ScraperController@index');
+//Route::get('/',function (){
+//    return '123123';
+//});
